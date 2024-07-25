@@ -1,0 +1,11 @@
+#ourteam-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.team-details {
+    width: calc(100% / 3);
+    text-align: center;
+}
